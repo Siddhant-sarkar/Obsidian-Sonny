@@ -1,0 +1,280 @@
+{
+  "main": {
+    "id": "d8d46734b99258b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3633aee1113df1ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "221de47663cf0b58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Android Development/Android Development..md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Android Development."
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bac8285b95cd847d",
+    "type": "split",
+    "children": [
+      {
+        "id": "41efdee50f1aee2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cd6eec52d97942e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "24f623436494464b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:GermanA1",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "12e7d62214b39d6d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6be9af6b6658d261",
+    "type": "split",
+    "children": [
+      {
+        "id": "c183addde4d819b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3c0b17de14ff585",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Deutsche/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "70a33fe06dcce658",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Deutsche/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "c7b59e7723ec16a2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d74af2c0fbe41f68",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Deutsche/Pronomen.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Pronomen"
+            }
+          },
+          {
+            "id": "5683e0c918b990c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Reflection/3rd February, Monday 2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "3rd February, Monday 2025"
+            }
+          },
+          {
+            "id": "f04d7f5e3540da9c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "3665fc477157f32a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 765,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "publish:Publish changes...": false,
+      "omnisearch:Omnisearch": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "apple-books-highlights:Apple Books Sync Highlights": false
+    }
+  },
+  "active": "221de47663cf0b58",
+  "lastOpenFiles": [
+    "README.md",
+    "Android Development/Android Development..md",
+    "Deutsche/Kennen und Wissen..md",
+    "Deutsche/Konjunktiv II.md",
+    "Deutsche/Konjunktionaladverbien.md",
+    "Deutsche/Futur 1.md",
+    "Deutsche/Hier - da - Dort.md",
+    "Deutsche/Genitiv.md",
+    "Journal/Reflection/17th April, Thursday 2025.md",
+    "Journal/Reflection/Probability Theory.md",
+    "Journal/Reflection/10th April, Thursday 2025.md",
+    "Journal/Reflection/9th April, Wednesday 2025.md",
+    "zAttachment/Pasted image 20250407162227.png",
+    "zAttachment/Pasted image 20250407161443.png",
+    "zAttachment/Pasted image 20250407160909.png",
+    "zAttachment/Pasted image 20250407160450.png",
+    "zAttachment/Pasted image 20250407160244.png",
+    "zAttachment/Pasted image 20250407155930.png",
+    "zAttachment/Pasted image 20250407155730.png",
+    "zAttachment/IMG_0104.jpeg",
+    "zAttachment/IMG_0103 1.jpeg",
+    "zAttachment/IMG_0103.jpeg",
+    "Journal/Reflection/Untitled.md",
+    "Journal/Reflection/7th April, Monday 2025.md",
+    "UNI/SEM2/PT",
+    "UNI/SEM2",
+    "Books/THE KYBALION.md",
+    "Journal/Reflection/20th March, Thursday 2025.md",
+    "Deutsche/Modalverben in Präteritum.md",
+    "Deutsche/Konjunktion.md",
+    "Deutsche/Subjunktionen.md",
+    "Deutsche/Komparativ und Superlativ.md",
+    "Deutsche/Präteritum.md",
+    "Deutsche/Perfekt.md",
+    "Deutsche/Satzstellung mit Akkusativ und Dativ.md",
+    "Deutsche/Some abreviations.md",
+    "Deutsche/Zeitadverbien.md",
+    "Deutsche/Case Identification..md",
+    "Android Development",
+    "UNI/SEM1/AML/2.Emphasis.pdf",
+    "Books",
+    "Apple Books Highlights",
+    "Quant/Books/Option Volitity and Pricing.pdf",
+    "Quant/Codeforces/Competitive Programming Guide..pdf",
+    "Quant/Codeforces",
+    "Fitness/GYM track",
+    "Untitled.canvas"
+  ]
+}

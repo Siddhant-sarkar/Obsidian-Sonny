@@ -1,0 +1,20 @@
+{
+  "vimMode": true,
+  "defaultViewMode": "preview",
+  "tabSize": 6,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "promptDelete": false,
+  "livePreview": true,
+  "attachmentFolderPath": "zAttachment",
+  "showLineNumber": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "spellcheck": false
+}

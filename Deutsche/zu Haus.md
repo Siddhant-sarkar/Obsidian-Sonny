@@ -1,0 +1,84 @@
+---
+tags:
+  - GermanA1
+  - Vocab
+  - To_learn
+date: 2025-01-31
+modified: 05:04
+---
+# Wichtig
+- der Eingangbereich : entrance area.
+- der Treppe : staircase
+- die Kommode : drawers
+- die Lamps 
+- die Wand : Wall
+- die Küche : kitchen
+- die Külhshrank : fridge
+- der Gefrierschrank : freezer
+- der ofen : over
+- der herd : stove
+- die pfanne: pan
+- der Besen : Broom
+- der Teller : plate#
+- die Schüssel : bowl
+- der Wasserhahn : water tap
+- der Topfhandschuh : oven Glove
+- das Waschbecken wash basis
+- das Goldfischglas fish bowl
+- Das Becher : glass
+- die Tasse : cup
+- die Untertasse : saucer
+- die stekedose : plug point
+- die WasserFlasche 
+- der StandMixer : Blender
+- der Honig : honez
+- des besteck : cutler
+- der löffle : spoon , der Schöpflöffel : die Suppenkelle : the ladle
+- die Gabel : fork
+- das Messer : knife
+- gas Geschirr : dishes
+- die Spühlmachine : dish washer
+- der Topf : pot
+- the Teekanne : teapot
+- Die Mikrowelle : microwave
+- Das Salz : salt
+- der Esstisch : dining table.
+- der Stuhl : chair.
+- das Wohnzimmer : linving room
+- das Fenster : windown
+- die couch, sofa
+- der Teppich: carpet
+- der Sessel : armChair
+- das Bild : photo
+- Die Stehlampe : stnading lap
+- der Fernseher : tv
+- die Fernbedienung : remote.
+- das Bücherregal : book shelf
+- die Planze : plant
+- die Gardine : cutain.
+- Das Schlafzimmer : bedroom
+- das Bett. bed
+- Das Kissen : pillow,
+- Die Wanduhr : wall clock
+- Die Schrank : closet
+- die Nacttischlampe : night lamp
+- der Nacttisch : carpet
+- die Vase : vase
+- dier Spiegel : mirror.
+- die Wecker : alarm clock.
+- die Kerze : candle
+- dad Badezimmer : bathoom
+- die Dusche : shower
+- die Badewanne : Bathtub
+- das Handtuch : towl
+- das Toilette / das Klo : toileette
+- das Klopapier / das Toilettenpapier : toiletpaper.
+- die Zahnbürst : toothbrush
+- die Zahnpasta : Toothpaste
+-  der Kamm : comb
+- der Fön : blowdryer
+- 
+
+
+# Alles
+

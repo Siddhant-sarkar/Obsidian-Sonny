@@ -1,0 +1,6 @@
+{
+  "folder": "Journal/Reflection",
+  "autorun": true,
+  "format": "Do MMMM, dddd YYYY",
+  "template": "zTemplates/Daily Journal Template"
+}

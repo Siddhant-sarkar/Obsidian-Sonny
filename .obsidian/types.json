@@ -1,0 +1,15 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "date": "date",
+    "modified": "datetime",
+    "time": "datetime",
+    "parent": "datetime",
+    "hit": "multitext",
+    "in time": "datetime",
+    "in-time": "datetime",
+    "out-time": "datetime"
+  }
+}

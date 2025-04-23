@@ -1,0 +1,9 @@
+{
+  "accentColor": "#ff0000",
+  "textFontFamily": "Geist Mono",
+  "monospaceFontFamily": "Geist Mono",
+  "translucency": false,
+  "cssTheme": "Aura",
+  "interfaceFontFamily": "Geist Mono",
+  "nativeMenus": true
+}
