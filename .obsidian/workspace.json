@@ -126,9 +126,33 @@
               "icon": "lucide-file",
               "title": "RelativPronomen"
             }
+          },
+          {
+            "id": "83e8ab4a0503ca48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deutsche/Vorgangspassiv.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Vorgangspassiv"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -325,11 +349,17 @@
       "apple-books-highlights:Apple Books Sync Highlights": false
     }
   },
-  "active": "e45a6419cac4e0f5",
+  "active": "83e8ab4a0503ca48",
   "lastOpenFiles": [
+    "zAttachment/Pasted image 20250428073248.png",
+    "zAttachment/Pasted image 20250428073206.png",
+    "Deutsche/RelativPronomen.md",
+    "Deutsche/Vorgangspassiv.md",
+    "zAttachment/Pasted image 20250428072625.png",
+    "zAttachment/Pasted image 20250428072558.png",
+    "zAttachment/Pasted image 20250428072027.png",
     "zAttachment/Pasted image 20250428071036.png",
     "Deutsche/Demonstrativpronomen.md",
-    "Deutsche/RelativPronomen.md",
     "Deutsche/Possessivartikel.md",
     "Deutsche/Konjugation von regalmäßigen Verben.md",
     "Deutsche/Konsonant.md",
@@ -347,11 +377,6 @@
     "zAttachment/Pasted image 20250428064302.png",
     "Deutsche/Verben mit Präpositionaladverb.md",
     "zAttachment/Pasted image 20250428043236.png",
-    "zAttachment/Pasted image 20250428043012.png",
-    "zAttachment/Pasted image 20250428042743.png",
-    "zAttachment/Pasted image 20250428042537.png",
-    "zAttachment/Pasted image 20250428042349.png",
-    "zAttachment/Pasted image 20250428042321.png",
     "Deutsche/N-Deklination.md",
     "Deutsche/Reflexive Verben.md",
     "Deutsche/Adjectivedeklination.md",
@@ -362,7 +387,6 @@
     "Deutsche/Kennen und Wissen..md",
     "Deutsche/Konjunktiv II.md",
     "Deutsche/Konjunktionaladverbien.md",
-    "Deutsche/Futur 1.md",
     "UNI/SEM2/PT",
     "UNI/SEM2",
     "Android Development",
