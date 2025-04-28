@@ -12,6 +12,7 @@ modified: 01:54
 ## Erklärung
 - written language.
 - complete action in the past.
+- Narratives or reports in the past.
 - consecutive actions in the past.
 	- like telling someone what happened in the past. Here it is not a written form but we still use this.
 ## Bildung
@@ -22,19 +23,31 @@ modified: 01:54
 - wir lernten
 - ihr lerntet
 - sie lernten
+### Verbstammendung auf -d,-t,-m,-chn,-ffn,-gn
+>[!imp] You have like verb-e-**
+![[Pasted image 20250428064302.png]]
+![[Pasted image 20250428064518.png]]
+
+## Unregelmäßige Verben
 ### Haben
-ich hatte
-du hattest
-er/sie/es hatte
-wir hatten
-ihr hattet
-sie hatten
+- ich hatte
+- du hattest
+- er/sie/es hatte
+- wir hatten
+- ihr hattet
+- sie hatten
 ### Sein
-ich war
-du warst
-er/sie/es war
-wir waren
-ihr wart
-sie waren
+- ich war
+- du warst
+- er/sie/es war
+- wir waren
+- ihr wart
+- sie waren
+
+### Konjugation von regalmäßigen Verben.
+![[Pasted image 20250428064821.png]]
+## Gemischte Verben
+![[Pasted image 20250428064922.png]]
+
 # Alles
 
