@@ -25,5 +25,10 @@ everybody who is known is akkusative objekt.
 - dieser : Feminin
 - diesem : neutral
 - diesen : Plural
+## In [[Genitiv]]
+- dieses : maskulin
+- dieser : feminin
+- dieses : neutral
+- dieser : Plural
 # Alles
 
