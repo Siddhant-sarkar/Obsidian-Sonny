@@ -30,5 +30,6 @@ modified: 22:58
 - sich treffen(A) - mit - to meet
 - sich verabreden - mit 
 - sich engagieren für (A)
+- sich verabschieden 
 # Alles
 

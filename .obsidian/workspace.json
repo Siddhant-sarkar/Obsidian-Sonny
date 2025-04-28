@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "221de47663cf0b58",
+            "id": "ac91f530b8c7a16f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android Development/Android Development..md",
+                "file": "Deutsche/N-Deklination.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Android Development."
+              "title": "N-Deklination"
+            }
+          },
+          {
+            "id": "480078cb73808bdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deutsche/Verben mit Präpositionaladverb.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Verben mit Präpositionaladverb"
+            }
+          },
+          {
+            "id": "f2ca0c05d0c65730",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deutsche/Präteritum.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Präteritum"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:GermanA1",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -227,10 +276,25 @@
       "apple-books-highlights:Apple Books Sync Highlights": false
     }
   },
-  "active": "221de47663cf0b58",
+  "active": "f2ca0c05d0c65730",
   "lastOpenFiles": [
-    "README.md",
+    "Deutsche/Untitled.md",
+    "Deutsche/Verben mit Präpositionaladverb.md",
+    "zAttachment/Pasted image 20250428043236.png",
+    "zAttachment/Pasted image 20250428043012.png",
+    "zAttachment/Pasted image 20250428042743.png",
+    "zAttachment/Pasted image 20250428042537.png",
+    "zAttachment/Pasted image 20250428042349.png",
+    "zAttachment/Pasted image 20250428042321.png",
+    "zAttachment/Pasted image 20250428042306.png",
+    "Deutsche/N-Deklination.md",
+    "Deutsche/Reflexive Verben.md",
+    "Deutsche/Adjectivedeklination.md",
+    "zAttachment/Pasted image 20250428041414.png",
+    "Journal/Reflection/28th April, Monday 2025.md",
     "Android Development/Android Development..md",
+    "Journal/Reflection/26th April, Saturday 2025.md",
+    "README.md",
     "Deutsche/Kennen und Wissen..md",
     "Deutsche/Konjunktiv II.md",
     "Deutsche/Konjunktionaladverbien.md",
@@ -243,14 +307,6 @@
     "Journal/Reflection/9th April, Wednesday 2025.md",
     "zAttachment/Pasted image 20250407162227.png",
     "zAttachment/Pasted image 20250407161443.png",
-    "zAttachment/Pasted image 20250407160909.png",
-    "zAttachment/Pasted image 20250407160450.png",
-    "zAttachment/Pasted image 20250407160244.png",
-    "zAttachment/Pasted image 20250407155930.png",
-    "zAttachment/Pasted image 20250407155730.png",
-    "zAttachment/IMG_0104.jpeg",
-    "zAttachment/IMG_0103 1.jpeg",
-    "zAttachment/IMG_0103.jpeg",
     "Journal/Reflection/Untitled.md",
     "Journal/Reflection/7th April, Monday 2025.md",
     "UNI/SEM2/PT",
@@ -260,13 +316,6 @@
     "Deutsche/Modalverben in Präteritum.md",
     "Deutsche/Konjunktion.md",
     "Deutsche/Subjunktionen.md",
-    "Deutsche/Komparativ und Superlativ.md",
-    "Deutsche/Präteritum.md",
-    "Deutsche/Perfekt.md",
-    "Deutsche/Satzstellung mit Akkusativ und Dativ.md",
-    "Deutsche/Some abreviations.md",
-    "Deutsche/Zeitadverbien.md",
-    "Deutsche/Case Identification..md",
     "Android Development",
     "UNI/SEM1/AML/2.Emphasis.pdf",
     "Books",
