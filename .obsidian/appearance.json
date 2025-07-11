@@ -1,9 +1,10 @@
 {
   "accentColor": "#ff0000",
-  "textFontFamily": "Geist Mono",
-  "monospaceFontFamily": "Geist Mono",
+  "textFontFamily": "Source Code Pro",
+  "monospaceFontFamily": "FiraCode Nerd Font",
   "translucency": false,
-  "cssTheme": "GitHub Theme",
-  "interfaceFontFamily": "Geist Mono",
-  "nativeMenus": true
+  "cssTheme": "Aura",
+  "interfaceFontFamily": "Source Code Pro",
+  "nativeMenus": true,
+  "theme": "obsidian"
 }

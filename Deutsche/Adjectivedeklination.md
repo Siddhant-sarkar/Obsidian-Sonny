@@ -34,15 +34,15 @@ if the adjective before the noun have to be declined.
 
 >[!imp] Some common stuff
 - ein,eine,ein = a 
-- mien, meine = my
+- mein, meine = my
 - kein/keine = none
 
 |           | maskulin               | feminin              | neutral                | Plural                          |
 | --------- | ---------------------- | -------------------- | ---------------------- | ------------------------------- |
-| Nominativ | ein gorßer Mann        | ein große Frau       | ein großes Kind        | meine tollen Bücher             |
+| Nominativ | ein gorßer Mann        | eine große Frau      | ein großes Kind        | meine tollen Bücher             |
 | Akkusativ | einen klugen Mann      | eine kluge Frau      | eine kluges Kind       | deine netten Freunde            |
 | Dativ     | einmen netten Mann     | einer netten Frau    | einem netten Kind      | seinen Freundlichen Großeeltern |
-| Genitiv   | eines schlanken Mannes | siner schalnken Grau | eines schlanken Kindes | eurer großen Bäume                                 |
+| Genitiv   | eines schlanken Mannes | siner schalnken Grau | eines schlanken Kindes | eurer großen Bäume              |
 
 ## starke Deklination
 

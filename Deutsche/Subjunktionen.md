@@ -1,7 +1,8 @@
 ---
-tags: 
-date : 2025-03-03
-modified : 19:03
+tags:
+  - GrammarA2
+date: 2025-03-03
+modified: 19:03
 ---
 # Wichtig
 >[!danger] Satstellung

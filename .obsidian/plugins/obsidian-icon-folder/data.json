@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🛩",
       "🗺",
       "📚",
       "💪",
-      "🏛",
-      "💵"
+      "🏛"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,7 +37,7 @@
   "Deutsche": "🇩🇪",
   "Quant": "💵",
   "UNI": "🏛",
-  "Journal": "🌃",
   "Books": "📚",
-  "Android Development": "🗺"
+  "Android Development": "🗺",
+  "Arbeit": "🛩"
 }

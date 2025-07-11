@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Reflection/26th April, Saturday 2025.md",
-                "mode": "source",
+                "file": "Arbeit/WIFI driver.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "26th April, Saturday 2025"
+              "title": "WIFI driver"
             }
           }
         ]
@@ -165,7 +165,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "daily-notes:Open today's daily note": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
       "audio-recorder:Start/stop recording": false,
       "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
@@ -181,16 +182,25 @@
   },
   "active": "1f4c96824772ea16",
   "lastOpenFiles": [
-    "Journal/Reflection/10th April, Thursday 2025.md",
+    "Journal/Reflection/4th June, Wednesday 2025.md",
+    "Journal/Reflection/6th June, Friday 2025.md",
+    "Arbeit/WIFI driver.md",
+    "Journal/Reflection/2nd June, Monday 2025.md",
+    "Journal/Reflection/28th May, Wednesday 2025.md",
+    "Deutsche/GenusReglen.md",
+    "Deutsche/Der Aussprache.md",
+    "Deutsche/Das Alphabet.md",
+    "Deutsche/Der Artikel.md",
+    "Deutsche/unregalmäßig Verben.md",
+    "Deutsche/Konjugation von regalmäßigen Verben.md",
+    "Journal/Reflection/25th May, Sunday 2025.md",
     "Journal/Reflection/26th April, Saturday 2025.md",
+    "Journal/Reflection/10th April, Thursday 2025.md",
     "zTemplates/Workout Track template.md",
     "zTemplates/Daily Journal Template.md",
     "zTemplates/GYM Template.md",
     "Journal/Reflection/9th April, Wednesday 2025.md",
     "Journal/Reflection/26th March, Wednesday 2025.md",
-    "Deutsche/Der Aussprache.md",
-    "Deutsche/Das Alphabet.md",
-    "Deutsche/Der Artikel.md",
     "Deutsche/German A1.md",
     "Journal/Reflection/23rd March, Sunday 2025.md",
     "Deutsche/Konjunktionaladverbien.md",
@@ -198,19 +208,10 @@
     "Journal/Reflection/4th March, Tuesday 2025.md",
     "Journal/Reflection/20th February, Thursday 2025.md",
     "UNI/SEM1/AML/LECTURE 3.md",
-    "Journal/Reflection/10th February, Monday 2025.md",
-    "Deutsche/Präpositionen.md",
-    "Journal/Reflection/9th February, Sunday 2025.md",
-    "UNI/SEM1/AML/LECTURE 1.md",
-    "Fitness/GYM track/8Th FEB.md",
     "zAttachment/Screenshot 2025-02-09 at 13.04.06.png",
     "zAttachment/Screenshot 2025-02-09 at 12.57.29.png",
     "zAttachment/Screenshot 2025-02-08 at 23.51.07.png",
     "zAttachment/Screenshot 2025-02-08 at 23.50.39.png",
-    "Deutsche/Main Clause.md",
-    "Journal/Reflection/8th February, Saturday 2025.md",
-    "Journal/Reflection/Untitled.md",
-    "Deutsche/Verb.md",
     "Quant/Codeforces/Competitive Programming Guide..pdf",
     "zAttachment/Pasted image 20250201155303.png",
     "Fitness",
