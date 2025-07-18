@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "WIFI driver"
             }
+          },
+          {
+            "id": "cbe1f4df4ae3ebed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arbeit/Neovim Config.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Neovim Config"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,9 +253,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "5cd6eec52d97942e",
+  "active": "cbe1f4df4ae3ebed",
   "lastOpenFiles": [
     "Arbeit/WIFI driver.md",
+    "Arbeit/Neovim Config.md",
     "ibooks-highlights/Time Is Money - A Simple System To Cure Procrastination Without Willpower, Become More Productive, Find Your Focus & Get More Done In Less Time!.md",
     "ibooks-highlights/48 Laws of Power.md",
     "ibooks-highlights/The Power of Your Subconscious Mind.md",
@@ -257,7 +283,6 @@
     "Deutsche/Pronomen.md",
     "Deutsche/Futur 1.md",
     "Deutsche/Genitiv.md",
-    "Deutsche/Hier - da - Dort.md",
     "Deutsche/secondary",
     "Arbeit",
     "zAttachment/Pasted image 20250428095008.png",
