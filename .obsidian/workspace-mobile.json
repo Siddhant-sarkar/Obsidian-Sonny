@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arbeit/WIFI driver.md",
+                "file": "Books/THE KYBALION.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "WIFI driver"
+              "title": "THE KYBALION"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arbeit/Today's notes.md",
+                "file": "Books/Translation of 4hr+ YouTube Interview with Vadim Zeland.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Today's notes"
+              "title": "Translation of 4hr+ YouTube Interview with Vadim Zeland"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,8 +180,8 @@
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "lucide-file",
-          "title": "Plugin no longer active"
+          "icon": "lucide-ghost",
+          "title": "calendar"
         }
       }
     ],
@@ -190,6 +189,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "markdown-importer:Open format converter": false,
       "zk-prefixer:Create new unique note": false,
       "audio-recorder:Start/stop recording": false,
@@ -205,9 +205,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d42d357d4dcd351c",
+  "active": "1f4c96824772ea16",
   "lastOpenFiles": [
     "Arbeit/WIFI driver.md",
+    "Books/Translation of 4hr+ YouTube Interview with Vadim Zeland.md",
+    "Deutsche/Das Handy.md",
+    "Deutsche/Konsonant.md",
+    "Deutsche/german_flashcards_list (1).md",
+    "Deutsche/Präpositionaladverbian.md",
+    "Deutsche/Verben mit Präpositionaladverb.md",
+    "Deutsche/Reflexive Verben.md",
     "Arbeit/Today's notes.md",
     "Untitled",
     "Journal/Reflection/4th June, Wednesday 2025.md",
@@ -227,13 +234,6 @@
     "zTemplates/Daily Journal Template.md",
     "zTemplates/GYM Template.md",
     "Journal/Reflection/9th April, Wednesday 2025.md",
-    "Journal/Reflection/26th March, Wednesday 2025.md",
-    "Deutsche/German A1.md",
-    "Journal/Reflection/23rd March, Sunday 2025.md",
-    "Deutsche/Konjunktionaladverbien.md",
-    "Journal/Reflection/5th March, Wednesday 2025.md",
-    "Journal/Reflection/4th March, Tuesday 2025.md",
-    "Journal/Reflection/20th February, Thursday 2025.md",
     "zAttachment/Screenshot 2025-02-09 at 13.04.06.png",
     "zAttachment/Screenshot 2025-02-09 at 12.57.29.png",
     "zAttachment/Screenshot 2025-02-08 at 23.51.07.png",
