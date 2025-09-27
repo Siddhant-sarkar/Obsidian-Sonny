@@ -189,6 +189,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
       "markdown-importer:Open format converter": false,
       "zk-prefixer:Create new unique note": false,
@@ -202,7 +203,8 @@
       "omnisearch:Omnisearch": false,
       "obsidian-plugin-update-tracker:Plugin Update Tracker": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "1f4c96824772ea16",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arbeit/Evitado All hands meeting.md",
+                "file": "Deutsche/archived/Der Artikel.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Evitado All hands meeting"
+              "title": "Der Artikel"
             }
           }
         ]
@@ -218,7 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 765
+    "width": 459.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,34 +240,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84854b5d4e1506a6",
+  "active": "5cd6eec52d97942e",
   "lastOpenFiles": [
-    "Deutsche/Imperativ.md",
-    "Arbeit/Evitado All hands meeting.md",
-    "Deutsche/Länder und Nationalitäten.md",
-    "Deutsche/Konjunktionen.md",
-    "Deutsche/Fragen.md",
-    "Deutsche/Adjektiv.md",
-    "Deutsche/Adverb.md",
-    "Deutsche/Negation.md",
-    "Deutsche/Modal Verben.md",
-    "Deutsche/nicht trennbare.md",
-    "Deutsche/Trennbare.md",
-    "Deutsche/Verb.md",
-    "Deutsche/Präpositionen.md",
-    "Deutsche/Main Clause.md",
-    "Deutsche/Das Handy.md",
-    "Deutsche/Uhrzeit.md",
-    "Deutsche/Komposita.md",
-    "Deutsche/Noun.md",
-    "Deutsche/Der Körper.md",
-    "Deutsche/GenusReglen.md",
-    "Deutsche/Akkusativ.md",
-    "Deutsche/UnBestimmte Artikel.md",
-    "Deutsche/Bestimmte Artikel.md",
-    "Deutsche/Personal Pronomen.md",
-    "Deutsche/nominative.md",
-    "Deutsche/unregalmäßig Verben.md",
+    "Deutsche/archived/zu Haus.md",
+    "Deutsche/archived/Zeitadverbien.md",
+    "Deutsche/archived/Wortbildung.md",
+    "Deutsche/archived/Wechselpräpositionen.md",
+    "Deutsche/archived/Vorgangspassiv.md",
+    "Deutsche/archived/Vokal.md",
+    "Deutsche/archived/Verben mit Präpositionaladverb.md",
+    "Deutsche/archived/Verb.md",
+    "Deutsche/archived/Untitled.md",
+    "Deutsche/archived/Unterschied zwischen.md",
+    "Deutsche/archived/unregalmäßig Verben.md",
+    "Deutsche/archived/UnBestimmte Artikel.md",
+    "Deutsche/archived/Uhrzeit.md",
+    "Deutsche/archived/Trennbare.md",
+    "Deutsche/archived/Subjunktionen.md",
+    "Deutsche/archived/Some abreviations.md",
+    "Deutsche/archived/secondary/german_flashcards_list.md",
+    "Deutsche/archived/secondary",
+    "Deutsche/archived/Satzstellung mit Akkusativ und Dativ.md",
+    "Deutsche/archived/RelativPronomen.md",
+    "Deutsche/archived/Reflexive Verben.md",
+    "Deutsche/archived/Pronomen.md",
+    "Deutsche/archived/Präteritum.md",
+    "Deutsche/archived/Präpositionen.md",
+    "Deutsche/archived/Präpositionaladverbian.md",
+    "Deutsche/archived/Possessivartikel.md",
+    "Deutsche/archived/Plusquamperfekt.md",
+    "Deutsche/archived/LOF",
+    "Deutsche/archived",
     "Deutsche.zip",
     "output/attachment/a74590a6d805ca0958b85c3edf353e4b.png",
     "output/attachment",
@@ -285,9 +288,6 @@
     "zAttachment/Pasted image 20250727221057.png",
     "zAttachment/Pasted image 20250727220758.png",
     "ibooks-highlights",
-    "Apple Books Highlights",
-    "Deutsche/secondary",
-    "Arbeit",
     "Untitled.canvas"
   ]
 }
